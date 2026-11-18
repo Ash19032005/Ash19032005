@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I'm Ashwin
 
-I'm a **Data Engineer at Wissen Technology**, working as a consultant for **Morgan Stanley**. I have experience in enterprise data engineering, large-scale data migrations, and workflow optimization.
+I'm a **Data Engineer at Wissen Technology**,consultant for **Morgan Stanley**. I have experience in enterprise data engineering, large-scale data migrations, and workflow optimization.
 
 I enjoy building reliable data solutions, solving engineering problems, and developing tools that make workflows more efficient.
 
