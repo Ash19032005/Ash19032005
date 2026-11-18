@@ -67,7 +67,6 @@ I enjoy building reliable data solutions, solving engineering problems, and deve
 - Implemented text and image comparison, including human-readable diffs and basic image change detection using metadata and hashing.
 - Integrated the **Google Gemini API** to generate AI-powered summaries of changes between document versions.
 
-<br>
 
 ## 🏆 Achievements
 
@@ -75,7 +74,6 @@ I enjoy building reliable data solutions, solving engineering problems, and deve
 - 📈 LeetCode maximum rating of **1800**
 - 🌍 Global Rank **1310** among 45,000 participants in IICPC Codefest
 
-<br>
 
 ## 🎓 Education
 
