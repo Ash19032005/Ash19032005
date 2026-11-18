@@ -22,7 +22,7 @@ Data Engineer Consultant at Morgan Stanley | Jan 2026 – Present
 📊 GitHub Analytics
 Replace YOUR_GITHUB_USERNAME in the image URLs below with your GitHub username to show your live profile statistics.
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Ash19032005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>🚀 Projects
 PrepMind
 Python · React.js · MongoDB · Gemini AI · Redis
