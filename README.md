@@ -8,7 +8,6 @@
 
 </div>
 
-<br>
 
 ## 👋 Hi, I'm Ashwin
 
@@ -16,7 +15,6 @@ I'm a **Data Engineer at Wissen Technology**, working as a consultant for **Morg
 
 I enjoy building reliable data solutions, solving engineering problems, and developing tools that make workflows more efficient.
 
-<br>
 
 ## 💼 Professional Experience
 
@@ -29,7 +27,6 @@ I enjoy building reliable data solutions, solving engineering problems, and deve
 - Migrated **72M+ records** from DB2 to the Snowflake archival database and performed data reconciliation to ensure consistency.
 - Created secure **Snowflake views** to provide production-quality data in the QA environment for testing.
 
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +44,6 @@ I enjoy building reliable data solutions, solving engineering problems, and deve
 | **Systems** | Unix |
 | **Developer Tools** | Git, GitHub, Postman |
 
-<br>
 
 ## 🚀 Projects
 
@@ -82,7 +78,6 @@ I enjoy building reliable data solutions, solving engineering problems, and deve
 | **Coimbatore Institute of Technology**<br>B.E. in Computer Science and Engineering | Oct 2022 – May 2026<br>**CGPA: 8.17** |
 | **SRV Matric Higher Secondary School**<br>Higher Secondary Certificate (HSC) | May 2021 – Apr 2022<br>**Score: 95.33%** |
 
-<br>
 
 <div align="center">
 
