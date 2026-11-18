@@ -20,34 +20,11 @@ Data Engineer Consultant at Morgan Stanley | Jan 2026 – Present
 - Systems: Unix
 - Developer Tools: Git, GitHub, Postman
 📊 GitHub Analytics
-Replace YOUR_GITHUB_USERNAME in the image URLs below with your GitHub username to show your live profile statistics.
 
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Ash19032005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>🚀 Projects
-PrepMind
-Python · React.js · MongoDB · Gemini AI · Redis
-- Developed a full-stack interview preparation platform that provides a unified interface for practicing technical interview questions.
-- Integrated Gemini AI to generate detailed answers and explanations.
-- Implemented Redis caching and optimized backend APIs, reducing response latency from 250–300 ms to 50–100 ms while processing web pages containing 50–100 interview questions.
-- Designed a personalized revision roadmap to organize topics into structured learning paths.
-Document Version Control System
-Python · Tkinter · Gemini API
-- Built a document version control system for DOCX files, supporting 50+ versions, version history, and rollback.
-- Enabled restoration of any previous version in under 2 seconds.
-- Implemented text and image comparison, including human-readable diffs and basic image change detection using metadata and hashing.
-- Integrated the Google Gemini API to generate AI-powered summaries of changes between document versions.
-🏆 Achievements
-- Global Rank 1452 in LeetCode Biweekly Contest 170.
-- Achieved a LeetCode maximum rating of 1800.
-- Secured Global Rank 1310 among 45,000 participants in IICPC Codefest.
-🎓 Education
-Coimbatore Institute of Technology
-B.E. in Computer Science and Engineering | Oct 2022 – May 2026
-CGPA: 8.17
 
-SRV Matric Higher Secondary School
-Higher Secondary Certificate (HSC) | May 2021 – Apr 2022
-Score: 95.33%
+
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Decorative wave footer" />Thanks for visiting my profile! ✨
 </div>
 I'm always interested in learning, solving challenging problems, and building impactful software and data engineering solutions.
