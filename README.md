@@ -28,20 +28,23 @@ Data Engineer Consultant at Morgan Stanley | Jan 2026 – Present
 
   Data & Workflow Tools: Snowflake · SQL · Autosys · DBArtisan · Unix
 </div>Technical Skills
-- Languages: Python, SQL
-- Data Platforms & Databases: Snowflake, PostgreSQL
-- Data Engineering & Workflow Tools: Autosys, DBArtisan
-- Systems: Unix
-- Developer Tools: Git, GitHub, Postman
+Category	Technologies
+Languages	Python, SQL
+Data Platforms & Databases	Snowflake, PostgreSQL
+Data Engineering & Workflow Tools	Autosys, DBArtisan
+Systems	Unix
+Developer Tools	Git, GitHub, Postman
+
+
 🚀 Projects
 PrepMind
-Python · React.js · MongoDB · Gemini AI · Redis
+<sub>Python · React.js · MongoDB · Gemini AI · Redis</sub>
 - Developed a full-stack interview preparation platform that provides a unified interface for practicing technical interview questions.
 - Integrated Gemini AI to generate detailed answers and explanations.
 - Implemented Redis caching and optimized backend APIs, reducing response latency from 250–300 ms to 50–100 ms while processing web pages containing 50–100 interview questions.
 - Designed a personalized revision roadmap to organize topics into structured learning paths.
 Document Version Control System
-Python · Tkinter · Gemini API
+<sub>Python · Tkinter · Gemini API</sub>
 - Built a document version control system for DOCX files, supporting 50+ versions, version history, and rollback.
 - Enabled restoration of any previous version in under 2 seconds.
 - Implemented text and image comparison, including human-readable diffs and basic image change detection using metadata and hashing.
@@ -52,13 +55,15 @@ Python · Tkinter · Gemini API
 - Secured Global Rank 1310 among 45,000 participants in IICPC Codefest.
 🎓 Education
 Coimbatore Institute of Technology
-B.E. in Computer Science and Engineering | Oct 2022 – May 2026
+B.E. in Computer Science and Engineering
+Oct 2022 – May 2026
 CGPA: 8.17
-
 SRV Matric Higher Secondary School
-Higher Secondary Certificate (HSC) | May 2021 – Apr 2022
+Higher Secondary Certificate (HSC)
+May 2021 – Apr 2022
 Score: 95.33%
-<div align="center">  Thanks for visiting my profile! ✨
+<div align="center">
+  Thanks for visiting my profile! ✨
 
   I'm always interested in learning, solving challenging problems, and building impactful software and data engineering solutions.
 </div>
